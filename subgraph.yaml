@@ -4,7 +4,7 @@ schema:
 dataSources:
   - kind: ethereum
     name: ProxyEvents
-    network: zksync-era
+    network: zkSync2-testnet
     source:
       address: "0x7720f64Dd997c6b540B8cf52704917fcBB359EE5"
       abi: ProxyEvents
